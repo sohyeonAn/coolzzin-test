@@ -43,6 +43,10 @@ footer {
 .footer-landing {
   height: 30vh;
   min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* test.html 스타일 */
